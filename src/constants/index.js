@@ -47,10 +47,10 @@ export const navLinks = [
 ];
 
 const services = [
-  {
-    title: 'Frontend Developer',
-    icon: frontend,
-  },
+  // {
+  //   title: 'Frontend Developer',
+  //   icon: frontend,
+  // },
   {
     title: 'Backend Developer',
     icon: backend,
@@ -126,47 +126,12 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Full Stack Developer',
-    company_name: 'Bynry',
+    title: 'Software Engineer',
+    company_name: 'Skylex Technology Pvt Ltd',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Dec 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Futurely',
-    icon: microverse,
-    iconBg: '#333333',
-    date: 'Dec 2022 - April 2023',
-  },
-  {
-    title: 'SDE-1',
-    company_name: 'Fero.Ai',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'April 2023 - May 2024',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Immersive Vision',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'June 2024 - July 2024',
-  },
-  {
-    title: 'Member of Technical Staff',
-    company_name: 'Zetexa',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'July 2024 - August 2024',
-  },
-  {
-    title: 'Sr Full Stack Developer',
-    company_name: 'Sakon',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sept 2024 - Present',
-  },
+    date: 'Sep 2022 - Jan 2024',
+  }
 ];
 
 const projects = [
