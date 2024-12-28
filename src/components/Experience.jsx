@@ -104,7 +104,7 @@ const Experience = () => {
               onClick={() => {
                 const link = document.createElement('a'); 
                 link.href = arjunresume; // Path to your resume
-                link.download = 'Arjun_Dange_Resume.pdf'; // The file name for the download
+                link.download = //'Arjun_Dange_Resume.pdf'; // The file name for the download
                 document.body.appendChild(link); // Add the link to the DOM
                 link.click(); // Programmatically click the link to start download
                 document.body.removeChild(link); // Remove the link after the download starts
