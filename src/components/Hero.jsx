@@ -42,11 +42,11 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Sudhir
+                Arjun
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Full Stack Developer | Backend Specialist | Cloud Enthusiast <br className="sm:block hidden" />
+              Full Stack Developer | Backend Specialist | Frontend Enthusiast <br className="sm:block hidden" />
               Turning ideas into scalable, efficient, and elegant solutions.
             </p>
           </div>

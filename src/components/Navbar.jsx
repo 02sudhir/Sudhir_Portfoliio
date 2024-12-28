@@ -21,7 +21,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}>
           <span className="text-[20px] font-bold text-eerieBlack sm:text-[24px]">
-            Sudhir Amruskar
+            Arjun Dange
           </span>
         </Link>
 
