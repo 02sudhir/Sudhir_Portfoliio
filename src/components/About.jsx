@@ -37,11 +37,11 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-    Hi, I'm  <b> Sudhir Amruskar </b> , a  <b> Senior DevSecOps Engineer </b> with over 4 years of experience building secure, scalable, and highly available cloud infrastructure for BFSI/NBFC organizations. I specialize in designing cloud-native platforms on AWS, automating infrastructure using Terraform, building Kubernetes environments, and implementing enterprise CI/CD pipelines.
+   Hi, I'm <b>Sudhir Amruskar</b>, a <b>Senior DevSecOps Engineer</b> with over <b>4+ years of experience</b> building <b>secure, scalable, and highly available cloud infrastructure</b> for <b>BFSI/NBFC organizations</b>. I specialize in designing <b>cloud-native platforms on AWS</b>, automating infrastructure using <b>Terraform</b>, building <b>Kubernetes (Amazon EKS)</b> environments, and implementing <b>enterprise CI/CD pipelines</b>.
 
-My expertise extends beyond traditional DevOps into DevSecOps, where I focus on cloud governance, AWS Organizations, AWS Guardrails, Wiz Cloud Security, VAPT remediation, SOC log monitoring, and cloud compliance. I enjoy solving complex infrastructure challenges, improving deployment reliability, and helping teams deliver software faster without compromising security.
+My expertise extends beyond traditional DevOps into <b>DevSecOps</b>, where I focus on <b>Cloud Governance</b>, <b>AWS Organizations</b>, <b>AWS Guardrails</b>, <b>Wiz Cloud Security (CSPM)</b>, <b>VAPT Remediation</b>, <b>SOC Log Monitoring</b>, <b>Cloud Compliance</b>, and <b>Security Automation</b>. I enjoy solving <b>complex infrastructure challenges</b>, improving <b>deployment reliability</b>, and helping engineering teams deliver software faster without compromising <b>security, compliance, and reliability</b>.
 
-I am passionate about automation, platform engineering, cloud security, and AI-powered cloud solutions using Amazon Bedrock. I believe infrastructure should be reliable, secure, scalable, and fully automated.
+I am passionate about <b>Automation</b>, <b>Platform Engineering</b>, <b>Cloud Security</b>, <b>Infrastructure as Code (IaC)</b>, <b>Kubernetes</b>, and <b>AI-powered cloud solutions using Amazon Bedrock</b>. I believe modern infrastructure should be <b>secure by design</b>, <b>fully automated</b>, <b>cost-efficient</b>, <b>scalable</b>, and <b>production-ready</b>.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
