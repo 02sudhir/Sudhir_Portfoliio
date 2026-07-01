@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-    Hi, I'm Sudhir Amruskar, a Senior DevOps Engineer with over 4 years of experience building secure, scalable, and highly available cloud infrastructure for BFSI/NBFC organizations. I specialize in designing cloud-native platforms on AWS, automating infrastructure using Terraform, building Kubernetes environments, and implementing enterprise CI/CD pipelines.
+    Hi, I'm  <b> Sudhir Amruskar </b> , a  <b> Senior DevSecOps Engineer </b> with over 4 years of experience building secure, scalable, and highly available cloud infrastructure for BFSI/NBFC organizations. I specialize in designing cloud-native platforms on AWS, automating infrastructure using Terraform, building Kubernetes environments, and implementing enterprise CI/CD pipelines.
 
 My expertise extends beyond traditional DevOps into DevSecOps, where I focus on cloud governance, AWS Organizations, AWS Guardrails, Wiz Cloud Security, VAPT remediation, SOC log monitoring, and cloud compliance. I enjoy solving complex infrastructure challenges, improving deployment reliability, and helping teams deliver software faster without compromising security.
 
