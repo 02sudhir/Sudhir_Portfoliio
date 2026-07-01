@@ -126,7 +126,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Software Engineer',
+    title: 'Senior DevOps Engineer',
     company_name: 'SK Finance (Trio Tech Solutions)',
     icon: coverhunt,
     iconBg: '#333333',
