@@ -37,11 +37,11 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        As a passionate AWS Devops, I thrive at the intersection of creativity and functionality, 
-        crafting robust Cloud  Infrastructure and backend knowledge of node.js . My journey is fueled by a vision to 
-        grow into a Cloud , building applications that solve real-world challenges and create meaningful impact. 
-        My focus remains on delivering high-quality solutions 
-        that stand out in an ever-evolving tech landscape.
+    Hi, I'm Sudhir Amruskar, a Senior DevOps Engineer with over 4 years of experience building secure, scalable, and highly available cloud infrastructure for BFSI/NBFC organizations. I specialize in designing cloud-native platforms on AWS, automating infrastructure using Terraform, building Kubernetes environments, and implementing enterprise CI/CD pipelines.
+
+My expertise extends beyond traditional DevOps into DevSecOps, where I focus on cloud governance, AWS Organizations, AWS Guardrails, Wiz Cloud Security, VAPT remediation, SOC log monitoring, and cloud compliance. I enjoy solving complex infrastructure challenges, improving deployment reliability, and helping teams deliver software faster without compromising security.
+
+I am passionate about automation, platform engineering, cloud security, and AI-powered cloud solutions using Amazon Bedrock. I believe infrastructure should be reliable, secure, scalable, and fully automated.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
