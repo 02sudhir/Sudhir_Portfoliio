@@ -56,11 +56,11 @@ const services = [
     icon: backend,
   },
   {
-    title: 'Full Stack Developer',
+    title: 'DevSecOps Engineering',
     icon: ux,
   },
   {
-    title: 'DevOps Engineering',
+    title: 'Cloud Engineering',
     icon: prototyping,
   },
 ];
@@ -127,10 +127,24 @@ const technologies = [
 const experiences = [
   {
     title: 'Software Engineer',
+    company_name: 'SK Finance (Trio Tech Solutions)',
+    icon: coverhunt,
+    iconBg: '#333333',
+    date: 'Jan 2025 - Present',
+  },
+  {
+    title: 'Software Engineer',
     company_name: 'Skylex Technology Pvt Ltd',
     icon: coverhunt,
     iconBg: '#333333',
     date: 'Sep 2022 - Jan 2024',
+  },
+  {
+    title: 'Software Engineer',
+    company_name: 'SSP Technologies Pvt Ltd',
+    icon: coverhunt,
+    iconBg: '#333333',
+    date: 'Sep 2021 - Aug 2022',
   }
 ];
 
